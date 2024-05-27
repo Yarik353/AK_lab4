@@ -1,2 +1,2 @@
 # AK_lab4
-xfun::embed_file("Lab4-AK.pdf")
+<embed src="Lab4-AK.pdf" type="application/pdf"/>
