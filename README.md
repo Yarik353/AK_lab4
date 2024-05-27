@@ -1,2 +1,2 @@
 # AK_lab4
-[embed]http://example.com/file.pdf[/embed]
+<embed src="[Lab4-AK.pdf](https://github.com/Yarik353/AK_lab4)" type="application/pdf"/>
